@@ -15,4 +15,4 @@ Automate the Chrome Dino Game with Python
 
 # Note
 
-This will only work chrome://dino page
+This will only work on the chrome://dino page
