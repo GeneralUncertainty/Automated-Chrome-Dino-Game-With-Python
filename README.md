@@ -12,3 +12,7 @@ Automate the Chrome Dino Game with Python
 1. Pyautogui (pip install pyautogui)
 2. PIL (pip install pillow)
 3. time (in-built)
+
+# Note
+
+This will only work chrome://dino page
